@@ -1,0 +1,25 @@
+{
+  "name": "paypal-certified-developer-vanilla",
+  "version": "1.0.0",
+  "description": "Notes about the certification using vanilla javascript",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merolhack/paypal-certified-developer-vanilla.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/merolhack/paypal-certified-developer-vanilla/issues"
+  },
+  "homepage": "https://github.com/merolhack/paypal-certified-developer-vanilla#readme",
+  "devDependencies": {
+    "eslint": "^4.10.0",
+    "eslint-config-google": "^0.9.1"
+  }
+}
